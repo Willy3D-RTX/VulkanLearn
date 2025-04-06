@@ -1,0 +1,38 @@
+# Pre
+*.d
+
+# Complie
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompile
+*.gch
+*.pch
+
+# Compile dynamic
+*.so
+*.dylib
+*.dll
+
+# Fortran
+*.mod
+*.smod
+
+# Compiled
+*.lai
+*.la
+*a
+*.lib
+
+# EXE
+*.exe
+*.out
+*.app
+
+
+# VS
+*.vs
+/bin
+/bin-int
